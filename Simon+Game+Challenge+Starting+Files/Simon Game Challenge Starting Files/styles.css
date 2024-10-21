@@ -1,0 +1,4 @@
+.pressed {
+    background-color: gray !important;
+    box-shadow: 0px 0px 10px lightcoral !important;
+}
